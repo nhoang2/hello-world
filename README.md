@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+hello, this is Nick
+
+I'm new to this thing.
